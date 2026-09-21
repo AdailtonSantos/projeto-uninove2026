@@ -1,15 +1,15 @@
-# Backend - Monique Barros Beauty Cosméticos
+# Backend - Monique Barros Beauty 
 API em PHP para o projeto final de ADS (UNINOVE).
 
-**Modelos:**
+**Modelos:** <br>
   Brasileiro  (R$ 115) <br>
-  Mega Brasileiro (R$ 130)
-  Fox eyes (R$ 140)
-  Mega Fox eyes (R$ 160)
-  Volume 5d (R$ 110)
-  Designer Sobrancelha (R$ 30)
-  Inglês (R$ 125)
-  Manutenção (R$ 85)
+  Mega Brasileiro (R$ 130)<br>
+  Fox eyes (R$ 140)<br>
+  Mega Fox eyes (R$ 160)<br>
+  Volume 5d (R$ 110)<br>
+  Designer Sobrancelha (R$ 30) <br>
+  Inglês (R$ 125) <br>
+  Manutenção (R$ 85) <br>
   Remoção (Química - Mecânica) (R$ 45)
   
   
