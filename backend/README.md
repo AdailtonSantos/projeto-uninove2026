@@ -2,7 +2,7 @@
 API em PHP para o projeto final de ADS (UNINOVE).
 
 **Modelos:**
-  Brasileiro  (R$ 115)
+  Brasileiro  (R$ 115) <br>
   Mega Brasileiro (R$ 130)
   Fox eyes (R$ 140)
   Mega Fox eyes (R$ 160)
