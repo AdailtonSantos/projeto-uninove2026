@@ -1,0 +1,3 @@
+<?php
+##Autenticar usuário
+?>
