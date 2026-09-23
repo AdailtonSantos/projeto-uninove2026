@@ -1,4 +1,10 @@
 <?php
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    http_response_code(405);
+    echo json_encode(["erro" => "Método não permitido."]);
+    exit;
+}
+
 require_once __DIR__ . "/../config/conexao.php";
 header("Content-Type: application/json");
 
