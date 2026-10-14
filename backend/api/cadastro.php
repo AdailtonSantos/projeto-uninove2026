@@ -55,10 +55,4 @@ try {
 } catch (PDOException $e) {
     if ($e->getCode() == 23000) {
         http_response_code(409);
-        echo json_encode(["erro" => "Este e-mail já está cadastrado."]);
-    } else {
-        error_log($e->getMessage());
-        http_response_code(500);
-        echo json_encode(["erro" => "Erro ao cadastrar usuário."]);
-    }
-}
+        echo
